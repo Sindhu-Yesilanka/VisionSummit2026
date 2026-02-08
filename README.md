@@ -36,7 +36,7 @@ The model was trained on a dataset of 2500 images per class, and it achieved a v
 ## Research & References
 1. MobileNetV2 - Efficient Mobile Models for Mobile Vision.
 2. Dataset source: Custom dataset for defect classification.
-3. [NXP eIQ Documentation](https://www.nxp.com/docs/en/reference-manual).
+3. [[NXP eIQ Documentation](https://www.nxp.com/docs/en/reference-manual).](https://www.nxp.com/products/i.MX-RT1170)
 
 ---
 
