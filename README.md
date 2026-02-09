@@ -29,7 +29,7 @@ Our team has worked on designing a solution for defect classification using ligh
 - **Framework**: TensorFlow
 - **Metrics on Test Split**:
   - **Accuracy**: 93.29%
-  - **Precision/Recall**: Precision = 98%, Recall = 97%
+  - **Precision/Recall**: Precision = 0.85, Recall = 0.87
   - **Confusion Matrix**: 
     - (Visualize using the code to generate the confusion matrix and include it here as an image)
 
