@@ -45,7 +45,7 @@ The model was trained on a dataset of 2500 images per class, and it achieved a v
 | **TinyCNN**           | Lightweight CNN            | Scratch/Transfer      | 160x160        | 4 MB               | TensorFlow    | 82%                     | 0.80          | 0.78       |      |
 
 ## Artifacts & Links
-- **GitHub Repository**: [https://github.com/YourUsername/VisionSummit2026](https://github.com/YourUsername/VisionSummit2026)
+- **GitHub Repository**: [https://github.com/Sindhu-Yesilanka/VisionSummit2026](https://github.com/YourUsername/VisionSummit2026)
 - **Dataset ZIP Link**:[[ [[Google Drive Link]([https://drive.google.com/your_dataset_link](https://drive.google.com/drive/folders/1m3LqErU98uaufvS0S0FjfNjzu3V_IS0l?usp=drive_link))  ](https://drive.google.com/drive/folders/1m3LqErU98uaufvS0S0FjfNjzu3V_IS0l?usp=drive_link)
 - **ONNX Model Link**: [[ONNX Model File](https://drive.google.com/file/d/13q0jtFKjd1kdLl3tRQri9Wma0Unyb_Eg/view?usp=drive_link)](https://drive.google.com/file/d/1xRxcgQwPnMPfGwnCAduotZxfhjTchp3O/view?usp=drive_link)  
   (Here is the link to download your ONNX model)
@@ -63,4 +63,4 @@ The model was trained on a dataset of 2500 images per class, and it achieved a v
 ## Instructions to Run the Project
 1. Clone the repository using the following command:
    ```bash
-   git clone https://github.com/YourUsername/VisionSummit2026.git
+   git clone https://github.com/Sindhu-Yesilanka/VisionSummit2026.git
