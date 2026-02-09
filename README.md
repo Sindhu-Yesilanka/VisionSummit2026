@@ -46,12 +46,11 @@ The model was trained on a dataset of 2500 images per class, and it achieved a v
 
 ## Artifacts & Links
 - **GitHub Repository**: [https://github.com/YourUsername/VisionSummit2026](https://github.com/YourUsername/VisionSummit2026)
-- **Dataset ZIP Link**: [[Google Drive Link](https://drive.google.com/your_dataset_link)  
-  (Upload your dataset folder here and update the link)](https://drive.google.com/drive/folders/1m3LqErU98uaufvS0S0FjfNjzu3V_IS0l?usp=drive_link)
+- **Dataset ZIP Link**:[ [[Google Drive Link]([https://drive.google.com/your_dataset_link](https://drive.google.com/drive/folders/1m3LqErU98uaufvS0S0FjfNjzu3V_IS0l?usp=drive_link))  
 - **ONNX Model Link**: [[ONNX Model File](https://drive.google.com/file/d/13q0jtFKjd1kdLl3tRQri9Wma0Unyb_Eg/view?usp=drive_link)](https://drive.google.com/file/d/1xRxcgQwPnMPfGwnCAduotZxfhjTchp3O/view?usp=drive_link)  
   (Here is the link to download your ONNX model)
 - **Saved Model Link**: [[(https://drive.google.com/file/d/13q0jtFKjd1kdLl3tRQri9Wma0Unyb_Eg/view?usp=drive_link)](https://drive.google.com/file/d/1xRxcgQwPnMPfGwnCAduotZxfhjTchp3O/view?usp=sharing)  ](https://drive.google.com/file/d/13q0jtFKjd1kdLl3tRQri9Wma0Unyb_Eg/view?usp=drive_link)
-  (Here is the link to download your ONNX model)
+  (Here is the link to download your trained model)
   
 
 ## Research & References
